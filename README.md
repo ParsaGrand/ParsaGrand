@@ -4,14 +4,14 @@
 Hello 👋 I'm a Parsa and I am interested in trying and experimenting, I love software like Adobe Photoshop, Adobe Illustrator and also the Lua programming language.
 
 <h1> <img src="https://github.com/ParsaGrand/ParsaGrand/blob/main/giphy.gif" alt="bubble" width="50" height="50" /> My Virtual Pages </h1> 
-- Telegram: #Pv_Grand
-- Telegram: https://t.me/Pv_Grand
-- Instagram: https://instagram.com/ParsaKeyN
+- Telegram: #Pv_Grand 
+- Telegram: https://t.me/Pv_Grand 
+- Instagram: https://instagram.com/ParsaKeyN 
 
 <h1> <img src="https://github.com/ParsaGrand/ParsaGrand/blob/main/EQ_accent.gif" alt="bubble" width="50" height="50" /> My Ongoing Projects </h1> 
-- Leroux Server: (Address: https://t.me/LerouxMTA)
-- AV Graphics: (Address: Private)
-- PlayList Music: (Address: https://t.me/NxPlayList)
+- Leroux Server: (Address: https://t.me/LerouxMTA) 
+- AV Graphics: (Address: Private) 
+- PlayList Music: (Address: https://t.me/NxPlayList) 
 
 <!---
 - 👋 Hi, I’m @ParsaGrand
