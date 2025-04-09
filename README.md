@@ -1,6 +1,6 @@
 ### 💫 ...
-![Laptop](https://github.com/ParsaGrand/ParsaGrand/blob/main/LapTop.png)
-
+![Laptop](https://github.com/ParsaGrand/ParsaGrand/blob/main/Laptop.png)
+ 
 - Telegram: https://t.me/Pv_Grand
 - Discord: #Pv_Grand
 - Instagram: https://instagram.com/ParsaKeyN
