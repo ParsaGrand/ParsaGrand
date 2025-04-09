@@ -1,5 +1,8 @@
 <img src="https://github.com/ParsaGrand/ParsaGrand/blob/main/bpxxqqvps4h91.gif">
+
 <h1> <img src="https://github.com/ParsaGrand/ParsaGrand/blob/main/Laptop.png" alt="man with laptop" width="50" height="50" /> Get to Know Me </h1> 
+Hello 👋 I'm a Parsa and I am interested in trying and experimenting...
+I love software like Adobe Photoshop, Adobe Illustrator and also the Lua programming language.
 
 - Telegram: https://t.me/Pv_Grand
 - Discord: #Pv_Grand
