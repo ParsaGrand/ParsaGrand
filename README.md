@@ -1,7 +1,9 @@
 ### 💫 Hayat korkunun bittiği yerde başlar...
 <div id="header" align="center" >
-  <img src="https://github.com/ParsaGrand/ParsaGrand/LoadScreen.gif" width='950' height="350"  alt="perfect night"  />
+  <img src="https://github.com/ParsaGrand/ParsaGrand/LoadScreen" width='950' height="350"  alt="perfect night"  />
 </div>
+<h1> <img src="https://github.com/ParsaGrand/ParsaGrand/Laptop" alt="man with laptop" width="50" height="50" /> Get to Know Me </h1> 
+
 - Telegram: https://t.me/Pv_Grand
 - Discord: #Pv_Grand
 - Instagram: https://instagram.com/ParsaKeyN
